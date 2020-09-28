@@ -11,7 +11,7 @@ public final class Utilidades {
         public static final String TABLA_NOMBRE="usuario";
         public static final String CAMPO_ID="id";
         public static final String CAMPO_NOMBRE="nombre";
-        public static final String CAMPO_CORREO="correo";
+        public static final String CAMPO_CORREO="roundedtextbox";
         public static final String CAMPO_CONTRASENA="contraseña";
         public static final String CAMPO_EDAD="edad";
         public static final String CAMPO_SEXO="sexo";
